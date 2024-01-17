@@ -82,11 +82,12 @@
 <p><img align="left" src="https://github-readme-stats-git-master-sergio-qs-projects.vercel.app/api?username=checho1989&show=prs_merged_percentage,discussions_started,prs_merged&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=stars" alt="checho1989" /></p>
 <p><img align="center" src="https://github-readme-stats-git-master-sergio-qs-projects.vercel.app/api/top-langs/?username=checho1989&hide_progress=true&theme=chartreuse-dark" alt="checho1989" /></p>
 
-</div>  
 <br/>  
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=checho1989&" alt="checho1989" /></p>
 <br/>  
+</div>  
+
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=squintero89&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>  
